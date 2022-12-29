@@ -1,6 +1,6 @@
-<a href="https://www.telegram.dog/shareus_xbot"><img alt="ShareusBypasserBot" src="https://img.shields.io/badge/ShareusBypasserBot-0061fc.svg?&logo=telegram&logoColor=white"></a>
-# ShareusBypasserBot.
-😎 Shareus bypasser bot, just send me any shareus links and i will you get you results.
+<a href="https://www.telegram.dog/shareus_xbot"><img alt="ShareBypasserBot" src="https://img.shields.io/badge/ShareBypasserBot-0061fc.svg?&logo=telegram&logoColor=white"></a>
+# ShareBypasserBot.
+😎 Share bypasser bot, just send me any share links and i will you get you results.
 
 # variables
 
@@ -17,10 +17,7 @@ about - About me.
 # Deploy To Vps.
 ```
 $ git clone https://github.com/Greymattersbot/ShareusBypasserBot
-$ cd ShareusBypasserBot
+$ cd ShareBypasserBot
 $ pip3 install -r requirements.txt
 $ python3 main.py
 ```
-# 👏 Credits.
-- [BotCreator99](https://github.com/BotCreator99) Repo Creator.   
-- [GreyMatter's](https://github.com/Greymattersbot) Repo promoter.
